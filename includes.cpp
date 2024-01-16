@@ -1,0 +1,50 @@
+//includes
+#include <sstream>
+#include <sys/uio.h>
+#include <math.h>
+#include <cmath>
+#include <cstring>
+#include <iostream>
+#include <iomanip>
+#include <string>
+#include <unistd.h>
+#include <vector>
+#include <unordered_map>
+#include <chrono>
+#include <thread>
+#include <unordered_map>
+#include <random>
+#include <fstream>
+#include <sys/stat.h>
+#include <algorithm>
+#include <cctype>
+#include <locale>
+#include <iterator>
+#include <X11/Xlib.h>
+#include <X11/Xutil.h>
+#include <X11/Xatom.h>
+#include <X11/extensions/XTest.h>
+#include <X11/extensions/Xrender.h>
+#include <X11/extensions/Xcomposite.h>
+#include <X11/extensions/XInput2.h>
+
+//mine
+#include "ConfigLoader.cpp"
+// #include "XD.cpp"
+#include "Offsets.cpp"
+#include "WeaponId.cpp"
+#include "Util.cpp"
+#include "FloatVector2D.cpp"
+#include "FloatVector3D.cpp"
+#include "GlowMode.cpp"
+#include "Color.cpp"
+#include "Memory.cpp" 
+#include "XDisplay.cpp"
+#include "Level.cpp"
+#include "LocalPlayer.cpp"
+#include "Player.cpp"
+#include "Sense.cpp"
+#include "TriggerBot.cpp"
+#include "AimBot.cpp"
+#include "NoRecoil.cpp"
+#include "Radar.cpp"
