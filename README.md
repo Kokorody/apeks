@@ -47,4 +47,4 @@ sudo ./a.out
 ```
 Unlimited powaaaaaaaaaa!
 ```
-![alt text](https://cdn.vox-cdn.com/thumbor/PYVJRRXPhua4a3I2X3n49AIgPZw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19542877/star_wars6_movie_screencaps.com_13433.jpg)
+![alt text]([https://cdn.vox-cdn.com/thumbor/PYVJRRXPhua4a3I2X3n49AIgPZw=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/19542877/star_wars6_movie_screencaps.com_13433.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjagatplay.com%2F2018%2F10%2Fnews%2Fforsaken-cs-go-angkat-bicara-terkait-kasus-cheat%2F&psig=AOvVaw2dgl3o1OEW5LD2rKQs4SzD&ust=1705456606024000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCmtozn4IMDFQAAAAAdAAAAABAM)https://www.google.com/url?sa=i&url=https%3A%2F%2Fjagatplay.com%2F2018%2F10%2Fnews%2Fforsaken-cs-go-angkat-bicara-terkait-kasus-cheat%2F&psig=AOvVaw2dgl3o1OEW5LD2rKQs4SzD&ust=1705456606024000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCmtozn4IMDFQAAAAAdAAAAABAM)
